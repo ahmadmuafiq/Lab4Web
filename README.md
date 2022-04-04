@@ -32,3 +32,5 @@
 2. Mengatur Clearfix Element.
 
 Untuk yang selanjutnya Clearfix ini digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya. berikut tampilanya.
+
+![gambar](pictures/2.png)
