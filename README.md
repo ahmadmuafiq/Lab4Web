@@ -7,7 +7,7 @@ Nama  : Ahmad Muafiq<br>
 NIM   : 312010152<br>
 Kelas : TI.20.B.1<br>
 
-<table border="1" cellpadding="6" cellspacing="1">
+<table border="1" cellpadding="6" cellspacing="2">
             <thead>
             <tr>
             <th>Nama : </th>
