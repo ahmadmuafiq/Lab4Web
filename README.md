@@ -31,6 +31,12 @@
 
 2. Mengatur Clearfix Element.
 
-Untuk yang selanjutnya Clearfix ini digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya. berikut tampilanya.
+<i>Untuk yang selanjutnya Clearfix ini digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya. berikut tampilanya.</i>
 
 ![gambar](pictures/2.png)
+
+3. Layout Sederhana.
+
+<i>selanjutnya disini kita membuat layout senderhana yaitu kerangka yang mengatur penempatan tata letak sebuah elemen pada halaman web. Tata letak element seperti navigasi, header, tombol CTA (Call to Action), dan elemen lainnya pada halaman web, sehingga tampilan web dapat disesuaikan dengan desain yang ada.</i>
+
+![gambar](pictures/3.png)
